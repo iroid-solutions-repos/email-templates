@@ -48,7 +48,7 @@ Example:
 - Review
 - Order Confirmation
 - Account Welcome
-
+And many more
 Feel free to explore and use these templates for your email campaigns!
 
 ## Keep Coding :)
